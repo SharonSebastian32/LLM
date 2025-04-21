@@ -45,8 +45,10 @@ main {
           width: 90%;
           padding: 1em 0.7em;
           outline: none;
-           border-radius: 0.5rem;
+          border-radius: 0.5rem;
           background-color: black;
+          color: #fff;
+          font-size: 14px;
         }
         button {
           padding: 1em 0.9em;
@@ -61,7 +63,8 @@ main {
           .send-icon {
             width: 1.5rem;
             height: 1.5rem;
-            color: white;
+            color: rgb(6, 97, 188);
+
           }
         }
         &:hover {
